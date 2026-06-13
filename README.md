@@ -16,6 +16,7 @@ DESKRIPSI SINGKAT
         Detail Artikel
         Relasi Artikel, Penulis, dan Kategori
 
+IMPORT DATABASE TERLEBIH DAHULU
 Langkah-Langkah Menjalankan Aplikasi Secara Lokal
     1. Clone Repository
         git clone https://github.com/username/aplikasi-blog.git
@@ -41,7 +42,7 @@ Langkah-Langkah Menjalankan Aplikasi Secara Lokal
             DB_CONNECTION=mysql
             DB_HOST=127.0.0.1
             DB_PORT=3306
-            DB_DATABASE=aplikasi_blog
+            DB_DATABASE=db_csm
             DB_USERNAME=root
             DB_PASSWORD=
             
